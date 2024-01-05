@@ -1,0 +1,10 @@
+export { default as hero } from "./hero.svg";
+export { default as logo } from "./logo.png";
+export { default as Database } from "./Database.svg";
+export { default as live } from "./live.svg";
+export { default as Star } from "./Star.svg";
+export { default as FileArrowDown } from "./FileArrowDown.svg";
+export { default as UserCircle } from "./UserCircle.svg";
+export { default as green } from "./green.svg";
+export { default as red } from "./red.svg";
+export { default as yellow } from "./yellow.svg";
